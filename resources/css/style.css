@@ -28,6 +28,10 @@ body {
     color: aquamarine;
 }
 
-h1 {
+/* FOOTER */
 
+.footer--copyright {
+    text-align: right;
+    font-size: 15px;
+    color: grey;
 }
